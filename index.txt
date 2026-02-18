@@ -1,1 +1,2 @@
 Creating index.txt in assignment-2 folder
+Updating index.txt in main
